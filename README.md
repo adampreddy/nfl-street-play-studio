@@ -4,8 +4,12 @@ Make your own plays for NFL Street 2 and try them in NFL Street Reborn.
 
 ## Download
 
-Get the latest zip from [Releases](../../releases/latest). Unzip it anywhere you can write to (Desktop or
-Documents) and open `NFL Street Play Studio.exe`. If Windows SmartScreen warns, choose More info > Run anyway.
+Get **NFL Street Play Studio Setup** from [Releases](../../releases/latest) and run it. It installs for your
+Windows user only (no admin needed) and adds Play Studio to the Start menu, and to the desktop if you tick that.
+If Windows SmartScreen warns, choose More info > Run anyway. Uninstall it from Settings > Apps like any other app;
+your plays stay.
+
+The zip on the same page is the same app without an installer, for anyone who prefers that.
 
 ## What you need
 
